@@ -1,7 +1,9 @@
-# Learn Terraform - Lambda functions and API Gateway
+# Update Me
 
-AWS Lambda functions and API gateway are often used to create serverlesss
-applications.
+Staying up to date with the news and social media is important, but **dangerous**. It's easy to open up a news app or Twitter to check current happenings only to find yourself doom scrolling for the next 30 minutes.
 
-Follow along with this [tutorial on HashiCorp
-Learn](https://learn.hashicorp.com/tutorials/terraform/lambda-api-gateway?in=terraform/aws).
+## Goal
+
+Set up a system of semi-regularly (ie weekly/bi-weekly) pushing me **relevant** information to avoid having to navigate to apps that support endless scrolling.
+
+Also planning to use Terraform and AWS to construct and host this system.
